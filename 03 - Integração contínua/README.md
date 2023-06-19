@@ -1,0 +1,29 @@
+## Gerir um pipeline de CI, conseguindo automatizar vários processos é muito importante para trabalhar em ambientes critícos e aplicações de grande porte.
+
+- [x] Introdução
+  - [x] Iniciando com Integração contínua
+- [x] Código fonte
+- [x] Iniciando com CI
+  - [x] Criando software exemplo
+  - [x] Criando primeiro workflow
+  - [x] Fazendo github actions não passar
+  - [x] Ativando status check
+  - [x] Trabalhando com Strategy Matrix
+- [x] CI com Docker
+  - [x] Criando Dockerfile
+  - [x] Errata - Criando Dockerfile
+  - [x] Gerando build da imagem via CI
+  - [x] Dando push na imagem automaticamente
+- [x] Sonarqube
+  - [x] Iniciando com Sonarqube
+  - [x] Conceitos principais
+  - [x] Instalando primeiro projeto
+  - [x] Trabalhando com cobertura de código
+  - [x] Cobrindo código JavaScript
+  - [x] Preparando ambiente para o SonarCloud
+  - [x] Executando o SonarCloud
+  - [x] Trocando de Quality Gate
+- [x] Questionário
+- [x] Desafio
+  - [x] Pipeline de CI com SonarCloud
+  - [Minha solução](https://github.com/Guilheeeerme/fc3-sonarcloud)

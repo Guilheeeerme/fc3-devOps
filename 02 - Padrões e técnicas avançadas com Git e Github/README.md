@@ -1,0 +1,32 @@
+## Como trabalhar com Gitflow e convenções de commits para padronização e facilitar CodeReviews. O manual para performance em equipe do Git.
+
+- [x] Introdução
+  - [x] Introdução
+- [x] Iniciando com Gitflow
+  - [x] Introdução ao Gitflow
+  - [x] Instalação do Gitflow
+  - [x] Mão na massa
+- [x] Assinatura de commits
+  - [x] Entendendo sobre assinaturas
+  - [x] Gerando chave gpg e assinando commits
+  - [x] Adicionando outro email na chave
+- [x] PRs e Code Review
+  - [x] Protegendo branches
+  - [x] Sobre proteção de branches e organizações
+  - [x] Criando nossa primeira PR
+  - [x] Criando template para PRs
+  - [x] Iniciando com Code Review
+  - [x] Protegendo branch para Code Review
+  - [x] Trabalhando com CODEOWNERS
+  - [x] Extensão do Github para VSCode
+- [x] SemVer e Convetional Commits
+  - [x] Semantical versioning
+  - [x] Convetional commits
+  - [x] Convetional no VSCode
+  - [x] Trabalhando com commitlint
+  - [x] Checando padrões de commit com commitsar
+  - [x] Commitando com Commitizen
+- [x] Questionário
+- [x] Desafio
+  - [x] Assine seu Commit
+  - [Minha solução](https://github.com/Guilheeeerme/fc3-signed-commit/commit/ed2739fbdbe621b9f7bf825ed6bc501c8d0e8794)
